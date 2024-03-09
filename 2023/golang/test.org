@@ -1,0 +1,8 @@
+* TODO Task 1
+    Deadline: <2023-12-31>
+
+* TODO Task 2
+    Deadline: <2023-12-31>
+
+* TODO Task 3
+    Deadline: <2023-12-31>
