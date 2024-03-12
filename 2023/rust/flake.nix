@@ -23,7 +23,9 @@
             pkg-config
             eza
             fd
-            rust-bin.beta.latest.default
+            (pkgs.rust-bin.stable.latest.rust.override {
+              extensions = [ "rust-src" ];
+            })
           ];
         };
       }
