@@ -1,0 +1,11 @@
+[package]
+name = "soln-advent-of-code-2023"
+version = "0.1.0"
+edition = "2021"
+authors = ["Vineet Kulkarni <mail@kvineet.in>"]
+description = "My attempt at solving advent of code 2023 problems in rust"
+keywords = ["aoc", "aoc2023"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
